@@ -1,0 +1,14 @@
+.c-product__img img.secondary{
+ display:none;
+}
+
+.c-product__img:hover img.secondary{
+ display:block;
+
+}
+.c-product__img:hover img.grid-view-item__image{
+ display:none;
+}
+.secondary{
+    display:none;
+}

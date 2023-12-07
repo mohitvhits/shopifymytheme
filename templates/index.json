@@ -1,0 +1,191 @@
+{
+  "sections": {
+    "4c37dde9-4dd2-4ab5-9478-1b92b88a81ab": {
+      "type": "video-background",
+      "blocks": {
+        "template--14572884557899__4c37dde9-4dd2-4ab5-9478-1b92b88a81ab-video-1": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e31bce744e16467d84963e6e8eaa758c.mp4",
+            "video_image": "shopify:\/\/shop_images\/fa-blog-1_6251aec5-274e-4016-b6b1-c82cf44749d3.webp",
+            "overlay_opacity": 0,
+            "title": "Video slide",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "color_text": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "color_btn_bg": "#ffffff",
+            "color_btn_text": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--14572884557899__4c37dde9-4dd2-4ab5-9478-1b92b88a81ab-video-1"
+      ],
+      "settings": {}
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_producttype": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "bb61c6f1-7fbc-4fe0-a747-dc5f1a870e93": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14572884557899__bb61c6f1-7fbc-4fe0-a747-dc5f1a870e93-slide-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--14572884557899__bb61c6f1-7fbc-4fe0-a747-dc5f1a870e93-slide-2": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14572884557899__bb61c6f1-7fbc-4fe0-a747-dc5f1a870e93-slide-1",
+        "template--14572884557899__bb61c6f1-7fbc-4fe0-a747-dc5f1a870e93-slide-2"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "cdc273fb-b62d-4de0-add7-dd7b66d48a24": {
+      "type": "Parallax",
+      "blocks": {
+        "4ddee3bf-7fca-4fbb-aaf0-992b4b5c1b64": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee-and-cake.jpg",
+            "txt1-hd1": "First",
+            "parallax-h": "h1",
+            "txt1-hd2": "second",
+            "parallax-subh": "h3",
+            "par1_showbutton": true,
+            "par1_button_label": "link",
+            "par1_button_link": "shopify:\/\/products\/chain-bracelet"
+          }
+        }
+      },
+      "block_order": [
+        "4ddee3bf-7fca-4fbb-aaf0-992b4b5c1b64"
+      ],
+      "settings": {
+        "paral-full": true,
+        "par_img_sz": "400",
+        "par_hd_sz": "55",
+        "par_subhd_sz": "25",
+        "par_button_sz": "25",
+        "par_letter_sp": "1",
+        "par_txt_align": "left",
+        "par_txt_top_pos": "50",
+        "par-en-over": true,
+        "color_over": "#000000",
+        "par_opacity": 50
+      }
+    }
+  },
+  "order": [
+    "4c37dde9-4dd2-4ab5-9478-1b92b88a81ab",
+    "image_banner",
+    "featured_collection",
+    "bb61c6f1-7fbc-4fe0-a747-dc5f1a870e93",
+    "cdc273fb-b62d-4de0-add7-dd7b66d48a24"
+  ]
+}
